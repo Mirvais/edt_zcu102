@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1.1 (64-bit)
+# SW Build 6233196 on Thu Sep 11 21:27:30 MDT 2025
+# IP Build 6232796 on Fri Sep 12 01:46:16 MDT 2025
+# SharedData Build 6233195 on Thu Sep 11 17:56:43 MDT 2025
+# Start of session at: Thu Mar 19 06:01:33 2026
+# Process ID         : 3536
+# Current directory  : D:/VLSI/Vivado_Projects/edt_zcu102/edt_zcu102.runs/axi_dma_0_synth_1
+# Command line       : vivado.exe -log axi_dma_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source axi_dma_0.tcl
+# Log file           : D:/VLSI/Vivado_Projects/edt_zcu102/edt_zcu102.runs/axi_dma_0_synth_1/axi_dma_0.vds
+# Journal file       : D:/VLSI/Vivado_Projects/edt_zcu102/edt_zcu102.runs/axi_dma_0_synth_1\vivado.jou
+# Running On         : MIRVAISMO
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : AMD Ryzen 7 5800X3D 8-Core Processor           
+# CPU Frequency      : 3394 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 34235 MB
+# Swap memory        : 22548 MB
+# Total Virtual      : 56783 MB
+# Available Virtual  : 10612 MB
+#-----------------------------------------------------------
+source axi_dma_0.tcl -notrace

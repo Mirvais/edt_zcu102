@@ -1,0 +1,23 @@
+{
+  "modelVersion": "1.0",
+  "projectName": "hello_r5_system",
+  "platform": "zcu102_edt",
+  "externalComponentRefs": [
+    "hello_r5"
+  ],
+  "components": [],
+  "buildConfigurations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "supportedTargets": [
+        "HW_EMU",
+        "HW"
+      ]
+    }
+  ],
+  "activeBuildConfigId": "default",
+  "hostMode": "x86",
+  "isDirty": true,
+  "applicationFlow": "EMBEDDED"
+}

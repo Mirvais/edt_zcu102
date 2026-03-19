@@ -1,0 +1,4 @@
+domain_path: D:\VLSI\Vivado_Projects\edt_zcu102\Vitis\zcu102_edt\export\zcu102_edt\sw\standalone_r5
+app_src_dir: D:\VLSI\Xilinx\2025.1.1\Vitis\data\embeddedsw\lib\sw_apps\empty_application
+template: empty_application
+lang: c

@@ -1,0 +1,8 @@
+verilog xil_defaultlib -i "../../../../../../Xilinx/2025.1.1/Vivado/data/rsb/busdef" --include "D:/VLSI/Xilinx/2025.1.1/Vivado/data/xilinx_vip/include" --include "../../../../edt_zcu102.gen/sources_1/bd/edt_zcu102/ipshared/ec67/hdl" --include "../../../../edt_zcu102.gen/sources_1/bd/edt_zcu102/ipshared/7711/hdl" \
+"../../../../edt_zcu102.gen/sources_1/bd/edt_zcu102/ip/edt_zcu102_zynq_ultra_ps_e_0_0/sim/edt_zcu102_zynq_ultra_ps_e_0_0_vip_wrapper.v" \
+"../../../../edt_zcu102.gen/sources_1/bd/edt_zcu102/sim/edt_zcu102.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
