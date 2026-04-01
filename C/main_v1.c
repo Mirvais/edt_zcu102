@@ -56,9 +56,11 @@ This is the one tied directly to your hardware instance names, device IDs, base 
 #define RX_BD_SPACE_BASE     (DDR_BASE_ADDR + 0x00020000U)
 #define RX_BD_SPACE_HIGH     (DDR_BASE_ADDR + 0x0003FFFFU)
 
+//TODO: these are just example offsets for A, B, and C in DDR. Adjust as needed based on your memory map and alignment requirements. Make sure they are outside the BD spaces and properly aligned for cache line size if needed.
 #define MATRIX_A_BASE        (DDR_BASE_ADDR + 0x00100000U)
 #define MATRIX_B_BASE        (DDR_BASE_ADDR + 0x00200000U)
 #define MATRIX_C_BASE        (DDR_BASE_ADDR + 0x00300000U)
+
 
 //=============================================================================
 // Accelerator Register Map
