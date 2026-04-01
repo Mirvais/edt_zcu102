@@ -1,0 +1,1 @@
+Xil_SetTlbAttributes(UINTPTR Addr, u64 attrib)
